@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jay Yhansey A. Del Rosario and I'm a Tuburan, Cebu from Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Jay Yhansey A. Del Rosario.</h2>
 
 ###
 
